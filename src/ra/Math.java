@@ -10,7 +10,7 @@ public class Math {
         // chạy ngay sau khi khởi tạo các thành phần tĩnh khác và chạy trươc hàm main
         System.out.println("Bắt đầu chạy khối static");
 //        PI =1000;
-        double sum = sum(2, 3);
+//        double sum = sum(2, 3);
         System.out.println("Kết thúc static");
 
     }

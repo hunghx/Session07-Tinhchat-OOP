@@ -1,7 +1,8 @@
-import ra.Animals;
-import ra.Cat;
-import ra.Dog;
+import ra.*;
 import ra.Math;
+
+import java.io.Serializable;
+
 import static ra.Math.PI;
 
 public class Main {
@@ -47,7 +48,6 @@ public class Main {
         // phần sau dấu  = kieu du liệu thực tế
 
         Animals animals1 = new Cat("lông ngắn",true,"White");
-
 
 
     }
